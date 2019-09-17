@@ -1,0 +1,21 @@
+﻿生成启动时间为 2019/9/4 17:34:57。
+     1>项目“C:\Users\0\Desktop\NavDataShow\NavDataShow\NavDataShow.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\NavDataShow.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt PointShow.cpp
+         PointShow.cpp
+     1>c:\users\0\desktop\navdatashow\navdatashow\protocolanalysis.h(11): warning C4091: “typedef ”: 没有声明变量时忽略“NetConnectPara”的左侧
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\0\Desktop\NavDataShow\Debug\NavDataShow.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\0\Desktop\NavDataShow\Debug\NavDataShow.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\0\Desktop\NavDataShow\Debug\NavDataShow.lib" /MACHINE:X86 Debug\NavDataShow.res
+         Debug\Log.obj
+         Debug\NavDataShow.obj
+         Debug\NavDataShowDlg.obj
+         Debug\PointShow.obj
+         Debug\ProtocolAnalysis.obj
+         Debug\stdafx.obj
+         Debug\tchart1.obj
+         NavDataShow.vcxproj -> C:\Users\0\Desktop\NavDataShow\Debug\NavDataShow.exe
+     1>已完成生成项目“C:\Users\0\Desktop\NavDataShow\NavDataShow\NavDataShow.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.31

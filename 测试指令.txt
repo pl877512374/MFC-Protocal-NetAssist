@@ -1,0 +1,2 @@
+sMN mNPOSGetPose 1
+55aa1d01
